@@ -2,7 +2,7 @@
 
 The Dagster project is nested within the `jaffle_shop_with_dagster` sub-directory.
 
-Create and activate a fresh Python virtual environment. Then use the below commands to install the Dagster dependencies and to run Dagster locally.
+Create and activate a fresh Python virtual environment. Then run each of the below commands to install the Dagster dependencies and run Dagster locally.
 
 ```zsh
 cd jaffle_shop_with_dagster/
